@@ -1,4 +1,5 @@
 Hello, This is a Twitter clone web application developed by me and my colleagues at LaSalle College. It was created with C# ASP.NET on Visual Studio 2022.
+The front end was done using HTML, CSS and little bit of Javascript.
 
 Functionalities :
 *Creates a database automatically with Entity Framework Core.
